@@ -1,2 +1,1 @@
-# AR-filters
-motion ,face and color sensitive dynamic filters
+# APP to detect blur in an image
